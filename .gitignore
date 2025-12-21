@@ -15,3 +15,5 @@
 01_data/02_data_wrangled/Task1_for_GroupALL.pkl
 01_data/03_images_raw.zip
 01_data/04_data_for_app1/App1_Data_Train.ftr
+
+04_extended_app/App1_Multimodal_Text_Classification/best_multimodal_model.pth
