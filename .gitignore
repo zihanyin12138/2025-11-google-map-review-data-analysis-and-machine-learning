@@ -11,5 +11,7 @@
 02_original_version/_resourses_give_by_uni/meta-California.json.gz
 
 01_data/02_data_wrangled/Task1_for_GroupALL.json
-01_data/02_data_wrangled/Task1_for_GroupALL_DETAIL.ftr
-01_data/02_data_wrangled/Task1_for_GroupALL_DETAIL.pkl
+01_data/02_data_wrangled/Task1_for_GroupALL.ftr
+01_data/02_data_wrangled/Task1_for_GroupALL.pkl
+01_data/03_images_raw.zip
+01_data/04_data_for_app1/App1_Data_Train.ftr
