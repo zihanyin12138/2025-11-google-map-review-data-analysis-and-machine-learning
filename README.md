@@ -1,4 +1,4 @@
-# Google Map Review Analysis and Machine Learning: From Data Wrangling to Multimodal AI
+# Google Map Review Data Analysis and Machine Learning: From Data Wrangling to Multimodal AI
 
 **English** | [中文](./README.zh.md)
 
