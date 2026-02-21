@@ -1,5 +1,4 @@
-# Google Map Review Data Analysis and Machine Learning: From Data Wrangling to Multimodal AI  
-# 谷歌地图评论数据分析与机器学习：从数据规整到多模态 AI
+# Google Map Review Data Analysis and Machine Learning: From Data Wrangling to Multimodal AI （谷歌地图评论数据分析与机器学习：从数据规整到多模态 AI）
 
 [English](./README.md) | **中文**
 
