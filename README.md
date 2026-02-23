@@ -38,7 +38,7 @@ This project has evolved from a "small-scale coursework experiment" into a "larg
 
 ## 2. Machine Learning Portfolio
 
-Based on the cleaned GroupALL full multimodal data, 5 core application modules are currently planned:
+Based on the cleaned GroupALL full multimodal data, 5 core application modules are currently planned (`04_extended_app`):
 
 | Module | Application Name | Core Stack | Status | Tech Docs |
 | :--- | :--- | :--- | :--- | :--- |
