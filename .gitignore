@@ -17,3 +17,5 @@
 01_data/04_data_for_app1/App1_Data_Train.ftr
 
 04_extended_app/App1_Multimodal_Text_Classification/best_multimodal_model.pth
+
+04_extended_app/App5_Fine_Tuning_LLM/Llama3_8B_App5_LoRA
