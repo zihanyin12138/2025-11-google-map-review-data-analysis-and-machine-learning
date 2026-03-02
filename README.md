@@ -21,7 +21,7 @@ The predecessor of this project (Task 2 EDA Exploratory Data Analysis Report) re
 This project has evolved from a "small-scale coursework experiment" into a "large-scale data engineering and machine learning application" portfolio.
 
 ### 1.1 Dataset Overview
-The underlying data for this project originates from **Google Local (Google Maps)**, focusing specifically on local merchants and their related user interaction records within **California, USA**.
+The underlying data for this project originates from **Google Maps**, focusing specifically on local merchants and their related user interaction records within **California, USA**.
 * **Merchant Metadata:** Contains structural information of nearly 510,000 Californian merchants, including geographic locations, names, categories (e.g., dining, retail, beauty services), average ratings, and official websites.
 * **User Interaction Data (Review Data):** Contains unstructured text reviews from real users, 1-5 star ratings, timestamps, and user-uploaded real-world images. These highly authentic business data provide a challenging and valuable multimodal corpus for subsequent Natural Language Processing (NLP), Computer Vision (CV), and Retrieval-Augmented Generation (RAG) tasks.
 
